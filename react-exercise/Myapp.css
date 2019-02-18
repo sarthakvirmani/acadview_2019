@@ -1,0 +1,30 @@
+body{
+    background:yellow;
+}
+.heading{
+    text-align:center;
+    color:purple;
+    margin-bottom: 30px;
+
+  }
+  .div{
+  background-color: orange;
+  border-radius:25px;
+  margin-right: 400px;
+  margin-left:400px;
+  margin-bottom: 30px;
+  box-shadow: 15px -16px black;
+  }
+  
+  .p{
+    text-align: center;
+  }
+  
+  .dis{
+    margin-bottom: 30px;
+  }
+  
+  .head{
+    text-align: center;
+    
+  }
